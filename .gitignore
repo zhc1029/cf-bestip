@@ -1,0 +1,8 @@
+cfst
+cfst.tar.gz
+cfst_linux_arm64/
+ip.txt
+ipv6.txt
+result.csv
+*.log
+
