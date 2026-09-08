@@ -5,3 +5,4 @@ ct.877774.xyz:443#按运营商 | 电信QMS
 www.csgo.net:443#CSGO
 www.whatismyip.net:443#优选域名
 www.fbi.gov:443#FBI
+www.dbs.com
