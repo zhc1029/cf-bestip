@@ -1,8 +1,7 @@
 saas.sin.fan#美国专线
-cloudflare.182682.xyz:443#大佬维护 | WeTest
-skk.moe:443#大佬维护 | Sukka
 bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
-cf.3666888.xyz:443#大佬维护 | HuTao
-cf.tencentapp.cn:443#大佬维护 | KTFF
 ct.877774.xyz:443#按运营商 | 电信QMS
+www.csgo.net:443#CSGO
+www.whatismyip.net:443#优选域名
+www.fbi.gov:443#FBI
