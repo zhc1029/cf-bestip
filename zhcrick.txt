@@ -2,7 +2,3 @@ saas.sin.fan#美国专线
 bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
 ct.877774.xyz:443#按运营商 | 电信QMS
-www.csgo.net:443#CSGO
-www.whatismyip.net:443#优选域名
-www.fbi.gov:443#FBI
-www.dbs.com
