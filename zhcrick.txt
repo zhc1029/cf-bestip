@@ -1,4 +1,7 @@
-saas.sin.fan#美国专线
+saas.sin.fan#优选域名sin.fan
 bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
 ct.877774.xyz:443#按运营商 | 电信QMS
+ctcc.cloudflare.seeck.cn#优选域名seeck.cn
+cf.090227.xyz#优选域名090227.xyz
+store.ubi.com#优选域名ubi.com
