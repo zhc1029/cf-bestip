@@ -3,6 +3,3 @@ bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
 ctcc.cloudflare.seeck.cn#优选域名seeck.cn
 cf.090227.xyz#优选域名090227.xyz
-www.visa.cn#Visa中国
-mfa.gov.ua#乌克兰政府官网
-spring.io#spring框架的官网
