@@ -1,5 +1,5 @@
 saas.sin.fan#优选域名sin.fan
-bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
-ctcc.cloudflare.seeck.cn#优选域名seeck.cn
 cf.090227.xyz#优选域名090227.xyz
+43.161.225.86:8443#香港
+43.128.39.163:8080#香港
